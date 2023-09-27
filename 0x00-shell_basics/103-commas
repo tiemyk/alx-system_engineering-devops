@@ -1,2 +1,2 @@
-!/bin/bash
-ls -apvn
+#!/bin/bash
+ls -amvp
